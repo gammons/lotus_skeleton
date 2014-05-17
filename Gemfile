@@ -11,8 +11,6 @@ gem 'sqlite3'
 gem 'dotenv'
 gem 'shotgun'
 gem 'pry'
-gem 'guard'
-gem 'bcrypt-ruby'
 
 group :test do
   gem 'minitest'
